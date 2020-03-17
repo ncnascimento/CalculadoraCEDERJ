@@ -1,6 +1,6 @@
 # app_tcc
 
-A new Flutter application.
+App used by me to do my graduation work.
 
 ## Getting Started
 
